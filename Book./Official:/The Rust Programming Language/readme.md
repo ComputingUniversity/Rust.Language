@@ -4,7 +4,11 @@ Rust Foundation's Official Book!
 # Home:
 https://doc.rust-lang.org/book/
 
-offline copy.open: `rustup doc --book`
+# Interactive.Version
+https://rust-book.cs.brown.edu/
+
+# offline copy.open:
+`rustup doc --book`
 
 Source: https://github.com/rust-lang/book
 
